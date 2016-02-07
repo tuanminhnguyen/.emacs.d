@@ -1,0 +1,33 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* Welcome to org-mode
+
+  Welcome, and thanks for trying out Org-mode. Making outlines in
+  org is very simple. It is just text! Just start typing.
+* This is a headline, it starts with one or more stars
+  A heading has one star, a sub-heading two, etc.
+* TODO 
+  * read http://orgmode.org/worg/org-contrib/babel/intro.html
+  * try ob-ipython again
+  * watch youtube emacs videos on set up
+  * duality lectures (don't try to get through all of it, just to get an idea
+  * do some problems in 364, look ahead of the a problems
+  * read some manual and review previous homework solutions
+  * random walk and network flows lecture notes
+  * 305 homework problems, get through at least 5
+  * +305 Lecture 2 : tree, Eulerian & Hamiltonian+
+  * 212 review lecture notes and concepts
+  * 212 debugging with gdb, walk through previous code
+  * python for data science
+  * apply for internship
+** Moving aro
+#+BEGIN_SRC ipython :session
+  %matplotlib inline
+  import matplotlib.pyplot as plt
+  import numpy as np
+#+END_SRC
+
+#+begin_src sh
+echo "this file takes up "
+#+end_src

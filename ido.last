@@ -1,0 +1,76 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "admin/")
+ ("/" . "Users/")
+ ("/Users/admin/.emacs.d/" . "examples/")
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/tuanminhnguyen-submit/" . "hw5/")
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/" . "tuanminhnguyen-submit/")
+ ("/Users/admin/Google Drive/MS Data Science/" . "0 CME 212/")
+ ("/Users/admin/Google Drive/" . "MS Data Science/")
+ ("/Users/admin/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/admin/.emacs.d/"
+ "/Users/admin/Google Drive/MS Data Science/0 CME 212/"
+ "/Users/admin/"
+ "/Users/admin/.emacs.d/examples/"
+ "/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/tuanminhnguyen-submit/hw5/"
+ "/Users/admin/Google Drive/MS Data Science/Github showcase projects/Python/USA.gov-bitly-data-analysis/"
+ "/Users/admin/.emacs.d/elpa/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "ex1.cpp"
+ ".bashrc"
+ "EX1.pdf"
+ "ex1.hpp"
+ "orgmode1.org"
+ "testorg.org"
+ "ob-ipython.el"
+ "test.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/admin/Google Drive/MS Data Science/0 CME 212/" (22194 40231 0 0) "test_find_if.cpp" "tags" "Programming Abstractions in C++.pdf" "Office Hours schedule.pdf" "Notes/" "min_dist.m" "main" "LectureNotes.pdf" "Lecture_10.html" "Lecture 10.Rmd" "Lecture 10.R" "HW2.pdf" "HW1.pdf" "Homework/" "Graph.hpp" "functordemo.cpp" "EX1.pdf" "ex1.hpp~" "ex1.cpp~" "ex1.cpp" "CME212_OH_Schedule.pdf" "cme212-notes/" "C_Tutorial.pdf" "2015_01_11_lecture_code.cpp" ".DS_Store" ".#graph.hpp" ".#ex1.cpp" "#Graph.hpp#" "#ex1.cpp#" "../" "./")
+
+ ("/Users/admin/.emacs.d/" (22194 29001 0 0) "SessionDesktop.el" "polymode/" "monokai-theme.el" "init.el~" "init.el" "ido.last~" "ido.last" "ido.el" "examples/" "ess-15.09-2/" "eshell/" "elpa/" "auto-save-list/" "atom-one-dark-theme/" "ac-comphist.dat" ".git/" "#new.py#" "../" "./")
+
+ ("/Users/admin/init/" (22185 17848 0 0) "Solarized Dark.itermcolors" "Solarized Dark xterm-256color.terminal" "profile_pyspark/" "Preferences.sublime-settings" ".DS_Store" "../" "./")
+
+ ("/Users/admin/" (22194 28999 0 0) "web.sh" "VirtualBox VMs/" "Tuan_Nguyen_Poster.svg" "scikit_learn_data/" "pydata.sh" "Public/" "Pictures/" "osxprep.sh" "osx.sh" "OneDrive/" "Music/" "Movies/" "Library/" "init/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "datastores.sh" "CREDITS.md" "brew.sh" "bootstrap.sh" "bin/" "aws.sh" "Applications/" "android.sh" "anaconda/" ".zshrc" ".zshenv" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump" ".Xauthority" ".wgetrc" ".virtualenvs/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".thinkbuzan/" ".subversion/" ".ssh/" ".spss/" ".slate~" ".slate" ".sh_history" ".serverauth.2239" ".screenrc" ".scep/" ".s3cfg" ".rstudio-desktop/" ".rnd" ".Rhistory" ".registration.xml.bak" ".RData" ".Rapp.history" ".R/" ".pylint.d/" ".oracle_jre_usage/" ".netbeans-derby/" ".nbprofiler/" ".mrjob.conf" ".matplotlib/" ".matlab/" ".m2/" ".local/" ".lesshst" ".kmlcsv/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".InstallAnywhere/" ".inputrc" ".idlerc/" ".hushlogin" ".hgignore" ".heroku/" ".gvimrc" ".gnome2/" ".gitignore" ".gitconfig" ".gitattributes" ".gem/" ".gdbinit" ".functions" ".extra" ".exports" ".emacs~" ".emacs.d/" ".editorconfig" ".eclipse_keyring" ".DS_Store" ".dropbox/" ".dots" ".curlrc" ".cups/" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bashrc~" ".bashrc" ".bash_prompt~" ".bash_prompt" ".bash_profile~" ".bash_profile.macports-saved_2015-12-31_at_14:13:24" ".bash_profile.macports-saved_2015-12-28_at_20:13:57" ".bash_profile.macports-saved_2015-04-23_at_12:57:22" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".aws/" ".atom/" ".android/" ".aliases" ".adobe/" "#test.py#" "#gitconfig#" "#config#" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/Github showcase projects/Python/USA.gov-bitly-data-analysis/" (22192 23445 0 0) "user_agent_analysis.ipynb" "usagov_bitly_data2013-05-17-1368832207" "README.md" "london_20131229.xml" "london/" ".ipynb_checkpoints/" ".git/" "#testorg.org#" "#test.py#" "../" "./")
+
+ ("/Users/admin/.emacs.d/examples/" (22191 49866 0 0) "orgmode1.org~" "orgmode1.org" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/" (22190 64320 0 0) "Workflow research/" "tuanminhnguyen.github.io/" "Texts/" "Problem Solving/" "Micellaneous/" "MathProbSolv.pdf" "Logistics/" "Internship Applications/" "Github showcase projects/" "Future/" "dev-setup/" "Data Science Projects/" "curriculum.md" "7 STATS 200 Intro to Statistical Inference/" "6 CME 211 Programming for Sci and Eng/" "5 CME 200 Linear Algebra/" "4 CS 9/" "3 ENGR 150 Data Challenge Lab/" "2 CME 364A Convex Optimization I/" "1 CME 305 Discrete Mathematics/" "0 CME 212/" ".DS_Store" "../" "./")
+
+ ("/Users/admin/Google Drive/" (22191 6564 0 0) "Word files/" "viewer.cpp" "Software info/" "MS Data Science/" "MathWorks/" "Marguerite Shuttle: Line C.pdf" "Maps/" "Makefile" "Leben/" "Icon
+" "Graph.hpp" "Fall 2013" "Examples/" "Documents/" "data/" "CME212-README.md" "CME212/" "Brian's pics/" "Brian's Asia trip/" "Books/" "Arbeit/" "2015.12.13 SFO - CLT American boarding pass.pdf" "0 To be printed/" ".DS_Store" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/tuanminhnguyen-submit/hw5/" (22190 35808 0 0) "testmazealgo.ipynb" "solution3.txt" "solution2.txt" "solution1.txt" "soln.txt" "sol.txt" "README.md" "mazesolver.cpp" "cme211hw5.pdf" "cme211-hw5-files/" "checksoln.py" "a.out" ".ipynb_checkpoints/" ".DS_Store" "#testorg.org#" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/tuanminhnguyen-submit/" (22120 58355 0 0) "README.md" "project/" "hw6/" "hw5/" "hw4/" "hw3/" "hw2/" "hw1/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/" (22099 40132 0 0) "tuanminhnguyen-submit/" "Texts/" "Exam & quizzes/" "cme211-notes/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/Github showcase projects/" (22180 25317 0 0) "Stochastic Differential Equation Solvers/" "README.md" "Python/" "Java Data Structures/" "2D Heat Equation Solver/" ".DS_Store" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/Github showcase projects/Python/" (22183 8763 0 0) "USA.gov-bitly-data-analysis/" "README.md" "pydata-book-master/" "data/" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/admin/.emacs.d/elpa/" (22190 34748 0 0) "yasnippet-0.9.0.1/" "visual-fill-column-readme.txt" "visual-fill-column-1.5/" "swiper-0.7.0/" "seq-1.11/" "s-1.11.0/" "request-readme.txt" "request-0.1.0/" "pyvenv-1.9/" "py-autopep8-0.7.0/" "popup-0.5.3/" "pkg-info-0.6/" "ob-ipython.el~" "ob-ipython.el" "markdown-mode-2.1/" "live-py-mode-2.8.1/" "let-alist-1.0.4/" "highlight-indentation-0.7.0/" "flycheck-0.25.1/" "find-file-in-project-4.5/" "fill-column-indicator-readme.txt" "fill-column-indicator-1.81/" "f-0.17.3/" "epl-0.8/" "elpy-1.11.0/" "ein-readme.txt" "dash-readme.txt" "dash-functional-readme.txt" "dash-functional-2.12.1/" "dash-2.12.1/" "company-0.8.12/" "auto-complete-readme.txt" "auto-complete-clang-async-readme.txt" "auto-complete-1.5.0/" "auctex-11.89/" "async-1.6/" "archives/" "ac-alchemist-readme.txt" "../" "./")
+
+ ("/Users/" (21569 41256 0 0) "Shared/" "admin/" ".localized" "../" "./")
+
+ ("/Users/admin/Google Drive/MS Data Science/6 CME 211 Programming for Sci and Eng/tuanminhnguyen-submit/hw6/" (22189 39318 0 0) "stanford_color.jpg" "stanford1.jpg" "stanford.jpg" "README.md" "Makefile" "main.o" "main.cpp" "main" "image1.cpp" "image.o" "image.hpp" "image.cpp" "hw6.o" "hw6.hpp" "hw6.cpp" "cme211hw6.pdf" "BoxBlur(27).jpg" "BoxBlur(23).jpg" "BoxBlur(19).jpg" "BoxBlur(15).jpg" "BoxBlur(11).jpg" "BoxBlur(07).jpg" "BoxBlur(03).jpg" "Archive.zip" ".DS_Store" "#image.cpp#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

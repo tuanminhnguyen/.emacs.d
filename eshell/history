@@ -1,0 +1,5 @@
+ls
+./main
+ls -al
+chmod +x main
+./main
